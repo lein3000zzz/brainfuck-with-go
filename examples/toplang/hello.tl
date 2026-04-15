@@ -1,0 +1,24 @@
+var H = 72;
+var e = 101;
+var l = 108;
+var o = 111;
+var space = 32;
+var W = 87;
+var r = 114;
+var d = 100;
+var bang = 33;
+var nl = 10;
+
+print(H);
+print(e);
+print(l);
+print(l);
+print(o);
+print(space);
+print(W);
+print(o);
+print(r);
+print(l);
+print(d);
+print(bang);
+print(nl);
